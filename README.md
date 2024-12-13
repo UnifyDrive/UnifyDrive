@@ -53,10 +53,10 @@ Below is the list of open-source software used in UnifyDrive NAS products:
 11. **SSZipArchive** - Compression and decompression tool
 
 ### **Cross-Platform Software**
-1. **VLC** - Open-source multimedia player and framework
-2. **ffmpeg** - Library for audio and video processing
-3. **syncthing** - Continuous file synchronization
-4. **gstreamer** - Multimedia framework (Linux)
+1. **VLC** - Open-source multimedia player and framework (with minor modifications; source code available on GitHub)
+2. **ffmpeg** - Library for audio and video processing (with minor modifications; source code available on GitHub)
+3. **syncthing** - Continuous file synchronization (with minor modifications; source code available on GitHub)
+4. **gstreamer** - Multimedia framework (Linux, with minor modifications; source code available on GitHub)
 5. **samba** - SMB/CIFS networking protocol (Linux)
 6. **dav-server-rs** - WebDAV server in Rust (Linux)
 7. **minidlna** - Lightweight DLNA/UPnP media server (Linux)
@@ -67,8 +67,9 @@ Below is the list of open-source software used in UnifyDrive NAS products:
 
 ### **Declaration**
 1. All open-source software listed above remains under the copyright of their respective owners, and we retain the original copyright notices.
-2. We utilize these open-source components solely for functional purposes and do not modify them for commercial use.
-3. If you have any concerns about the usage of the software listed above, feel free to contact us for further details.
+2. We utilize some of these open-source components (e.g., VLC, ffmpeg, syncthing, and gstreamer) with minor modifications to meet our product requirements. The modified source code is available on our official GitHub repository.
+3. For all other open-source components, we use them solely for functional purposes without modifications.
+4. If you have any concerns about the usage of the software listed above, feel free to contact us for further details.
 
 Thank you for supporting UnifyDrive!
 
