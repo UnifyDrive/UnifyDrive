@@ -63,13 +63,13 @@ Below is the list of open-source software used in UnifyDrive NAS products:
 8. **sftpgo** - SFTP server with WebDAV and FTP support (Linux)
 9. **webdav** - WebDAV server implementation
 
----
+### **Declaration**  
+1. All open-source software listed above remains under the copyright of their respective owners, and we retain the original copyright notices.  
+2. We utilize some of these open-source components (e.g., VLC, ffmpeg, syncthing, and gstreamer) with minor modifications to meet our product requirements. The modified source code is available on our official GitHub repository.  
+3. For all other open-source components, we use them solely for functional purposes without modifications.  
+4. As a new product/brand, we may further adopt additional open-source software in the future. We will continue to comply with the respective open-source licenses for all software used.  
+5. If you have any concerns about the usage of the software listed above, feel free to contact us for further details.  
 
-### **Declaration**
-1. All open-source software listed above remains under the copyright of their respective owners, and we retain the original copyright notices.
-2. We utilize some of these open-source components (e.g., VLC, ffmpeg, syncthing, and gstreamer) with minor modifications to meet our product requirements. The modified source code is available on our official GitHub repository.
-3. For all other open-source components, we use them solely for functional purposes without modifications.
-4. If you have any concerns about the usage of the software listed above, feel free to contact us for further details.
 
 Thank you for supporting UnifyDrive!
 
